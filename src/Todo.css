@@ -1,0 +1,23 @@
+.todos {
+    width: 50rem;
+    margin: 80px 550px;
+    background-color: #f7f7f7;
+    padding: 2rem;
+}
+
+.todo {
+    width: 40rem;
+}
+
+.button {
+    width: 5rem;
+}
+
+.todoCheck {
+    width: 18px;
+    height: 18px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
